@@ -1,8 +1,7 @@
-# Ajouter nom scientifique
+# Robert Oppenheimer
 
 ## Accueil
 
 
-## nom du scientifique
 
-texte a ajouté ici presentation du scientifique<sup>hey</sup>
+texte a ajouté ici présentation du scientifique
