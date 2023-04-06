@@ -11,3 +11,8 @@ personaliter scientifique : Robert Oppenheimer
 ## Site utilisé pour les recherches
 
     >
+
+
+### Faire un récap de nos recherche dans le document recherche.txt 
+
+essayer de préciser au possible dans quel partie le mettre
