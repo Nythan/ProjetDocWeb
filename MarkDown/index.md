@@ -2,7 +2,7 @@
 
 ## Accueil
 
-
+![Robert Oppenheimer](../Images/RobertOppenheimer.jpg)
 
 Robert Oppenheimer était un physicien américain de renom qui a laissé une marque indélébile sur l'histoire de la science et de la technologie en tant que directeur scientifique du projet Manhattan, le programme de recherche américain qui a abouti à la création de la première bombe atomique. Oppenheimer a également été un enseignant et un chercheur émérite, un défenseur du contrôle des armes nucléaires, et une figure controversée dans la politique américaine de la guerre froide.
 
