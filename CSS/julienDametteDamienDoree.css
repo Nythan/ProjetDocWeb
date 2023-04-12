@@ -5,14 +5,11 @@
     text-align: center;
     font-size: 18px;
     font-weight: bold;*/
-
     /* faire un melange des deux */
 
-    list-style: none;
     margin: 0;
     padding: 0;
     display: flex;
-    justify-content: flex-end;
     background-color: #f2f2f2;
     height: 50px;
 
@@ -21,11 +18,13 @@
     padding: 10px;
     color: #4285f4;
     text-decoration: none;
+    justify-content: flex-end;
 }
-#menu >h3{
+#menu > h3{
     padding: 0px;
     color: #4285f4;
     text-decoration: none;
+    justify-content: right;
 }
 
 #titre> h1 {
