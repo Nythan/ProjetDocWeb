@@ -4,7 +4,7 @@ personaliter scientifique : Robert Oppenheimer
 
 ### commande :
 
-    pandoc -f commonmark -t html --metadata pagetitle="test" -c ../CSS/julienDametteDamienDoree.css --template HTML/squelette.html -s MarkDown/index.md --ascii > HTML/index.html
+    pandoc -f commonmark -t html --metadata pagetitle="Robert Oppenheimer" -c ../CSS/julienDametteDamienDoree.css --template HTML/squelette.html -s MarkDown/index.md --ascii > HTML/index.html
     
     pandoc -f commonmark -t html --ascii MarkDown/auteur.md > HTML/auteur.html
 
