@@ -25,3 +25,14 @@ personaliter scientifique : Robert Oppenheimer
 ### Faire un récap de nos recherche dans le document recherche.txt 
 
 essayer de préciser au possible dans quel partie le mettre
+
+
+# TODO
+
+- ajouter classe section dans le #contenu
+- ajouter lien interne vers les diférentes section sur une page 
+- ajouter un tableau
+- verfier la présence de liste 
+- verifier la validiter des différents documents css et html 
+- voir ce a quoi correspond le sous template 
+- passez l'usage de markdown au niveaux expert 
