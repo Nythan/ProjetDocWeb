@@ -29,10 +29,7 @@ essayer de préciser au possible dans quel partie le mettre
 
 # TODO
 
-- ajouter classe section dans le #contenu
-- ajouter lien interne vers les diférentes section sur une page regarder comment faire les liens sur un même page 
-- ajouter un tableau en page de webographie 
+- ajouter lien interne vers les diférentes section sur une page regarder comment faire les liens sur un même page  
 - verfier la présence de liste à ajouter ou ne pas faire a voir selon nos envie 
 - verifier la validiter des différents documents css et html normalement ok pour HTML en xHtml 1.0 strict et css en CSS3
-- voir ce a quoi correspond le sous template  OK 
 - passez l'usage de markdown au niveaux expert 
