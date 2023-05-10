@@ -110,7 +110,7 @@
 
 #menuInterne {
   display: flex;
-  
+
   align-items: center;
   background-color: #f2f2f2;
   padding: 10px 0;
@@ -126,4 +126,8 @@
 
 #menuInterne a:hover {
   color: #0099cc;
+}
+
+#menuInterne ul li{
+    list-style: none;
 }
